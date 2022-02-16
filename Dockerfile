@@ -1,4 +1,4 @@
-FROM node:16 as pnpm
+FROM node:16-alpine as pnpm
 RUN apk add --no-cache make
 RUN corepack enable
 RUN corepack prepare pnpm@6.31.0 --activate
