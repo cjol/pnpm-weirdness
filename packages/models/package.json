@@ -1,0 +1,6 @@
+{
+	"name": "@powerx/models",
+	"dependencies": {
+		"leftpad": "^0.0.1"
+	}
+}

@@ -1,0 +1,6 @@
+{
+	"name": "@powerx/fine",
+	"dependencies": {
+		"leftpad": "^0.0.1"
+	}
+}
